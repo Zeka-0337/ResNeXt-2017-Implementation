@@ -2,7 +2,7 @@
 
 ## 설명
 가이드라인에 있던 ResNeXt(2017)을 구현하여, Cifar10 dataset에 대해 image Classification을 시도했습니다.
-구현은 해당 논문에 기재된 방식을 그대로 구현하는 것을 목표로 했으며, 이후에는 https://github.com/prlz77/ResNeXt.pytorch을 참고하여 learning rate를 수정했습니다.
+구현은 [해당 논문](https://arxiv.org/abs/1611.05431v2?utm_campaign=Deep%20Learning%20for%20Computer%20Vision&utm_medium=email&utm_source=Revue%20newsletter)에 기재된 방식을 그대로 구현하는 것을 목표로 했으며, 이후에는 https://github.com/prlz77/ResNeXt.pytorch 을 참고하여 learning rate를 수정했습니다.
 
 GPU 환경을 사용하기 위해 Colab 환경에서 진행했습니다.
 링크 : https://colab.research.google.com/drive/1ZmrIJ7ky-DC6ngihp4Erxc_1tVE05ZuF?usp=sharing
